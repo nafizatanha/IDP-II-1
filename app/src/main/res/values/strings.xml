@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UnitKoteKeyManagementApp</string>
+    <string name="log_In_Here">Log In</string>
+    <string name="unit_kote_key_management_system">Unit Kote Key Management System</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="log_In">Log In</string>
+    <string name="create_new_account">Create New Account</string>
+
+
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_your_rank">Enter Your Rank</string>
+    <string name="not_registered_register_now">Not registered? Register Now!</string>
+</resources>

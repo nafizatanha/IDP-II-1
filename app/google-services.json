@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649492063622",
+    "firebase_url": "https://unit-kote-key-management-default-rtdb.firebaseio.com",
+    "project_id": "unit-kote-key-management",
+    "storage_bucket": "unit-kote-key-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649492063622:android:dbe62fc01bdc41e39a7807",
+        "android_client_info": {
+          "package_name": "com.example.unitkotekeymanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649492063622-cap7d6pa03oi0qvumgpm31aro2bo2713.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOUD0z3ykOgtMdy1zab0CoLFxXSeVWRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649492063622-cap7d6pa03oi0qvumgpm31aro2bo2713.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
